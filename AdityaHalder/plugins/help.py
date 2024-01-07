@@ -60,7 +60,7 @@ Genius Userbot » {__version__} ✨...
 Click On Below 🌺 Buttons To
 Get Userbot Commands.
 
-🌷Powered By : [Aditya Server](https://t.me/AdityaServer).**"""
+🌷Powered By : [Mahto Anjali](https://t.me/QUEENx_GOD).**"""
     if plug_match:
         plugin = plug_match.group(1)
         text = (
