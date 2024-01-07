@@ -9,7 +9,7 @@ from pyrogram import *
 from pyrogram.types import *
 
 
-UPSTREAM_REPO = "https://github.com/AdityaHalder/Genius-Userbot"
+UPSTREAM_REPO = "https://github.com/mahtoanjali/Anjali-Userbot"
 UPSTREAM_BRANCH = "aditya"
 
 
@@ -59,7 +59,7 @@ async def update_userbot(client, message):
     await message.edit("**🔄 Checking Updates ✨...**")
     update_avail = updater()
     if update_avail:
-        await message.edit("**🥳 New Update Available\nFor Genius-Userbot❗**")
+        await message.edit("**🥳 New Update Available\nFor Anjali-Userbot❗**")
         asyncio.sleep(0.5)
         await message.edit("**🔃 Updating ...**")
         os.system("git pull -f && pip3 install -r Installer")
