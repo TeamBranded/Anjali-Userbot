@@ -67,12 +67,12 @@ async def update_userbot(client, message):
         os.system(f"kill -9 {os.getpid()} && python3 -m AdityaHalder")
         return
     else:
-        await message.edit(f"**🥀 Genius Userbot Already\nUpdated To Latest 🔥 ...\n\n💕 For Any Query › Contact\nTo » @AdityaHalder ✨ ...**")
+        await message.edit(f"**🥀 Anjali Userbot Already\nUpdated To Latest 🔥 ...\n\n💕 For Any Query › Contact\nTo » @QUEENx_GOD ✨ ...**")
 
 __NAME__ = "Update"
 __MENU__ = f"""
 **🥀 Use This Plugin To Update
-Your Genius Userbot.**
+Your Anjali Userbot.**
 
 **🇮🇳 Command :**
 `.update` - Update Your Userbot
