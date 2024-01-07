@@ -1,14 +1,14 @@
 {
     "name": "Genius-Userbot",
-    "logo": "https://te.legra.ph/file/ceee32999a8250a1f7ebb.png",
-    "description": "Genius-Userbot is a powerful, advanced, multi-featured Telegram userbot.",
+    "logo": "https://te.legra.ph/file/471ef129b9c1b479676fd.jpg",
+    "description": "Anjali-Userbot is a powerful, advanced, multi-featured Telegram userbot.",
     "keywords": [
         "userbot",
         "musicbot",
         "videobot",
         "telegram"
     ],
-    "repository": "https://github.com/AdityaHalder/Genius-Userbot",
+    "repository": "https://github.com/mahtoanjali/Anjali-Userbot",
     "stack": "container",
     "env": {
         "API_ID": {
