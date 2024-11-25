@@ -8,7 +8,7 @@
         "videobot",
         "telegram"
     ],
-    "repository": "https://github.com/mahtoanjali/Anjali-Userbot",
+    "repository": "https://github.com/TeamBranded/Anjali-Userbot",
     "stack": "container",
     "env": {
         "API_ID": {
